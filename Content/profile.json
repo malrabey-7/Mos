@@ -2,8 +2,8 @@
 "About": {
   "Name": "Mohammed Al Rabey",
   "Currently": "EE Student",
-  //"Headshot": "student-portrait.png",
- // "Thumbnail": "student-logo.webp",
+  "Headshot": "student-portrait.png",
+ "Thumbnail": "student-logo.webp",
   "AboutText": "Hi, I am Mohammed Al Rabey. I am a passionate EE student with a keen interest in power distribution . Currently, I am pursuing my undergraduate degree at Seattle Pacific University.
 },
 "Contact": {
